@@ -52,6 +52,9 @@ Layer classes: convolutional layers
 Layer classes: pooling layers
 -----------------------------
 
+.. autoclass:: MaxPool1DLayer
+    :members:
+
 .. autoclass:: MaxPool2DLayer
     :members:
 
@@ -106,7 +109,7 @@ Layer classes: merge layers
 
 
 :mod:`lasagne.layers.corrmm`
-==================================
+============================
 
 .. automodule:: lasagne.layers.corrmm
     :members:
@@ -120,7 +123,7 @@ Layer classes: merge layers
 
 
 :mod:`lasagne.layers.dnn`
-==================================
+=========================
 
 .. automodule:: lasagne.layers.dnn
     :members:
